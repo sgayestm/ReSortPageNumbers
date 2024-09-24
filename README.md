@@ -6,3 +6,12 @@ The code works by gabbing the file infomation from the WDP file in an autocad el
 
 Next it indexes through the project to find all the instances that match the keywords used.
 
+The matches are as follows:
+
+all files require 2 numbers before the description.
+
+  -The word CONTROL 
+  -The word LAYOUT
+  -The word BOM
+  -The word Connection
+  -the word Interconnect
